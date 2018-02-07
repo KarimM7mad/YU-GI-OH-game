@@ -1,0 +1,123 @@
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\bin\Debug\yo gi.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\bin\Debug\yo gi.exe
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\bin\Debug\yo gi.pdb
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\obj\Debug\yo gi.exe
+c:\users\user1\documents\visual studio 2015\Projects\yo gi\yo gi\obj\Debug\yo gi.pdb
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\bin\Debug\yo gi.exe.config
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\obj\Debug\yo gi.exe
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\obj\Debug\yo gi.pdb
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\bin\Debug\yo gi.exe
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\bin\Debug\yo gi.pdb
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+C:\Users\Rogue Scarlet\Downloads\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+I:\YUGI\yo gi\yo gi\bin\Debug\yo gi.exe.config
+I:\YUGI\yo gi\yo gi\obj\Debug\yo gi.exe
+I:\YUGI\yo gi\yo gi\obj\Debug\yo gi.pdb
+I:\YUGI\yo gi\yo gi\bin\Debug\yo gi.exe
+I:\YUGI\yo gi\yo gi\bin\Debug\yo gi.pdb
+I:\YUGI\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+I:\YUGI\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+I:\YUGI\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+I:\YUGI\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\bin\Debug\yo gi.exe.config
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo gi.exe
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo gi.pdb
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\bin\Debug\yo gi.exe
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\bin\Debug\yo gi.pdb
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+C:\Users\dell\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\bin\Debug\yo gi.exe.config
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo gi.exe
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo gi.pdb
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\bin\Debug\yo gi.exe
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\bin\Debug\yo gi.pdb
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+C:\Users\user1\Desktop\YUGI\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\bin\Debug\yo gi.exe.config
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\obj\Debug\yo gi.exe
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\obj\Debug\yo gi.pdb
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\bin\Debug\yo gi.exe
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\bin\Debug\yo gi.pdb
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\yo gi\yo gi\bin\Debug\yo gi.exe.config
+C:\Users\user1\Desktop\yo gi\yo gi\obj\Debug\yo gi.exe
+C:\Users\user1\Desktop\yo gi\yo gi\obj\Debug\yo gi.pdb
+C:\Users\user1\Desktop\yo gi\yo gi\bin\Debug\yo gi.exe
+C:\Users\user1\Desktop\yo gi\yo gi\bin\Debug\yo gi.pdb
+C:\Users\user1\Desktop\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+C:\Users\user1\Desktop\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+C:\Users\user1\Desktop\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\yo gi\yo gi\bin\Debug\ClassLibrary1.dll
+C:\Users\user1\Desktop\yo gi\yo gi\bin\Debug\ClassLibrary1.pdb
+C:\Users\Rogue Scarlet\Desktop\yo gi\yo gi\bin\Debug\ClassLibrary1.pdb
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\bin\Debug\yo gi.exe.config
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\obj\Debug\yo gi.exe
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\obj\Debug\yo gi.pdb
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\bin\Debug\yo gi.exe
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\bin\Debug\yo gi.pdb
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\obj\Debug\yo_gi.Menu.resources
+C:\Users\user1\Desktop\New folder (5)\yo gi\yo gi\obj\Debug\yo_gi.SetupMenu.resources
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\bin\Debug\yo gi.exe.config
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\obj\Debug\yo gi.exe
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\obj\Debug\yo gi.pdb
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\bin\Debug\yo gi.exe
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\obj\Debug\yo_gi.Form1.resources
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\obj\Debug\yo_gi.Menu.resources
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\obj\Debug\yo_gi.SetupMenu.resources
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+C:\Users\Hossam\Desktop\Final2\yo gi\yo gi\bin\Debug\yo gi.pdb
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\bin\Debug\yo gi.exe.config
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\obj\Debug\yo gi.exe
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\obj\Debug\yo gi.pdb
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\bin\Debug\yo gi.exe
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\bin\Debug\yo gi.pdb
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\obj\Debug\yo_gi.Form1.resources
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\obj\Debug\yo_gi.Menu.resources
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\obj\Debug\yo_gi.SetupMenu.resources
+C:\Users\MIDJA\Desktop\YU-GI C#\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+E:\YU-GI C#\yo gi\bin\Debug\yo gi.exe.config
+E:\YU-GI C#\yo gi\obj\Debug\yo gi.exe
+E:\YU-GI C#\yo gi\obj\Debug\yo gi.pdb
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\bin\Debug\yo gi.exe.config
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\obj\Debug\yo gi.exe
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\obj\Debug\yo gi.pdb
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\bin\Debug\yo gi.exe
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\obj\Debug\yo_gi.Form1.resources
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\obj\Debug\yo_gi.Menu.resources
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\obj\Debug\yo_gi.SetupMenu.resources
+E:\Old Projects\YU-GI C# (Training Project)\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\bin\Debug\yo gi.exe.config
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\obj\Debug\yo gi.exe
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\obj\Debug\yo gi.pdb
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\bin\Debug\yo gi.exe
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\bin\Debug\yo gi.pdb
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\obj\Debug\yo gi.csprojResolveAssemblyReference.cache
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\obj\Debug\yo_gi.Form1.resources
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\obj\Debug\yo_gi.Menu.resources
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\obj\Debug\yo_gi.Properties.Resources.resources
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\obj\Debug\yo_gi.SetupMenu.resources
+E:\codes and courses\YU-GI C# (Training Project)\yo gi\obj\Debug\yo gi.csproj.GenerateResource.Cache
